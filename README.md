@@ -1,6 +1,6 @@
 Usage:
 
-python  main.py -j <Genepattern job number> -u <GenePattern User ID> -p <GenePattern password> -f <file extension to download> -g <genepattern server URL>
+python  main.py -j \<Genepattern job number\> -u \<GenePattern User ID\> -p \<GenePattern password\> -f \<file extension to download\> -g \<GenePattern server URL\>
 
 
 e.g.
